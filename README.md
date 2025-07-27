@@ -379,15 +379,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-X - [@ShenSeanChen](https://x.com/nIsmeetkachhap
+X - [@IsmeetKachhap](https://x.com/Ismeetkachhap
 
-YouTube - [@SeanTechStories](https://www.youtube.com/@IsmeetKachhap)
+YouTube - [@IsmeetKachhap](https://www.youtube.com/@IsmeetKachhap)
 
-Discord - [@Sean's Stories](https://discord.gg/IsmeetKachhap)
+Discord - [@Ismeet's Stories](https://discord.gg/IsmeetKachhap)
 
-Instagram - [@SeanTechStories](https://www.instagram.com/IsmeetKachhap )
+Instagram - [@IsmeetKachhap](https://www.instagram.com/IsmeetKachhap )
 
-Project Link: [https://github.com/IsmeetKachhap007
+Project Link: [https://github.com/IsmeetKachhap007]
 
 ## 🚀 Deploy
 
