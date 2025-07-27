@@ -379,7 +379,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-X - [@IsmeetKachhap](https://x.com/Ismeetkachhap
+X - [@IsmeetKachhap](https://x.com/Ismeetkachhap)
 
 YouTube - [@IsmeetKachhap](https://www.youtube.com/@IsmeetKachhap)
 
