@@ -379,15 +379,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-X - [@ShenSeanChen](https://x.com/ShenSeanChen)
+X - [@ShenSeanChen](https://x.com/nIsmeetkachhap
 
-YouTube - [@SeanTechStories](https://www.youtube.com/@SeanTechStories)
+YouTube - [@SeanTechStories](https://www.youtube.com/@IsmeetKachhap)
 
-Discord - [@Sean's Stories](https://discord.gg/TKKPzZheua)
+Discord - [@Sean's Stories](https://discord.gg/IsmeetKachhap)
 
-Instagram - [@SeanTechStories](https://www.instagram.com/sean_tech_stories )
+Instagram - [@SeanTechStories](https://www.instagram.com/IsmeetKachhap )
 
-Project Link: [https://github.com/ShenSeanChen/launch-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-stripe-nextjs-supabase)
+Project Link: [https://github.com/IsmeetKachhap007
 
 ## 🚀 Deploy
 
@@ -397,4 +397,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 ---
 
-Made with 🔥 by [ShenSeanChen](https://github.com/ShenSeanChen)
+Made with 🔥 by [ShenSeanChen](https://github.com/IsmeetKachhap007)
